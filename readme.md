@@ -4,7 +4,7 @@
 
 This project is an Oculus VR game developed using Unity. 
 
-Showcase Video: https://youtu.be/Pvtv_v1YDz8
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Pvtv_v1YDz8" frameborder="0" allowfullscreen></iframe>
 
 ## Features
 
